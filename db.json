@@ -2,15 +2,21 @@
   "users": [
     {
       "id": "1",
-      "displayname": "Fred"
+      "name": "Freddie",
+      "email": "freddie@test.com", 
+      "pswd": "abc123"
     },
     {
       "id": "2",
-      "displayname": "Ben"
+      "name": "Ben",
+      "email": "ben@test.com",
+      "pswd": "ade123"      
     },
     {
       "id": "3",
-      "displayname": "Sarah"
+      "name": "Sarah",
+      "email": "sarah@test.com",
+      "pswd": "jer123"      
     }
   ],
   "profile": {
