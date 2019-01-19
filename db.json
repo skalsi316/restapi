@@ -12,5 +12,8 @@
       "userId": "3",
       "displayname": "Sarah"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
