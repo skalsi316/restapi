@@ -1,5 +1,5 @@
 {
-"users": {
+"users": [{
   "usersoptions": {
     {
       "msisdn": "447921199000",
@@ -20,8 +20,7 @@
       "pswd": "jer123"      
     }
    }
-}
-},
+}],
   "profile": {
     "name": "typicode"
   }
