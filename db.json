@@ -1,6 +1,8 @@
 {
-"users": {
-      "msisdn": "447921199000","name": "Freddie","email": "freddies@test.com","pswd": "abc123"},
+"users": [
+      {"msisdn": "447921199000","name": "Freddie","email": "freddies@test.com","pswd": "abc123"},
+      {"msisdn": "447921199007","name": "Ben","email": "ben@test.com","pswd": "cke123"}
+         ]
   "profile": {
     "name": "typicode"
   }
