@@ -1,11 +1,9 @@
 {
 "users": {
-  "usersoptions": {
       "msisdn": "447921199000",
       "name": "Freddie",
       "email": "freddies@test.com", 
       "pswd": "abc123"
-    }
 },
   "profile": {
     "name": "typicode"
