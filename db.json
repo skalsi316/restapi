@@ -1,5 +1,5 @@
 {
-"type":"success", "users": [{
+"users": [{
   "usersoptions": [
     {
       "msisdn": "447921199000",
@@ -19,7 +19,8 @@
       "email": "sarah@test.com",
       "pswd": "jer123"      
     }
-  ]],
+  ]
+}],
   "profile": {
     "name": "typicode"
   }
