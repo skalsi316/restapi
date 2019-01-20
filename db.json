@@ -1,6 +1,6 @@
 {
-"users": [{
-  "usersoptions": [
+"users": {
+  "usersoptions": {
     {
       "msisdn": "447921199000",
       "name": "Freddie",
@@ -19,8 +19,8 @@
       "email": "sarah@test.com",
       "pswd": "jer123"      
     }
-  ]
-}],
+}
+},
   "profile": {
     "name": "typicode"
   }
